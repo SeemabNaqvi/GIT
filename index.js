@@ -1,1 +1,2 @@
-//This is the first version
+let a=10;
+console.log(a);
